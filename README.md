@@ -82,10 +82,10 @@ For quick testing and evaluation out of the box:
 | Role | Password | Description |
 | :--- | :---: | :--- |
 | **🧑 Mareez (Patient)** | *None required* | Direct access for booking and queue tracking |
-| **🏢 Reception** | `1234` | Patient check-ins, walk-ins, and desk management |
-| **🩺 Doctor** | `1234` | Patient queue, consultations, and prescriptions |
-| **📺 Waiting Room** | `1234` | Full-screen kiosk display for TV monitors |
-| **👑 Malik (Owner)** | `1234` | Daily analytics, patient archive, and clinic settings |
+| **🏢 Reception** | `555` | Patient check-ins, walk-ins, and desk management |
+| **🩺 Doctor** | `666` | Patient queue, consultations, and prescriptions |
+| **📺 Waiting Room** | `777` | Full-screen kiosk display for TV monitors |
+| **👑 Malik (Owner)** | `888` | Daily analytics, patient archive, and clinic settings |
 
 > 💡 *All role passwords can be customized anytime from the **Malik Panel ➔ Settings** tab.*
 
